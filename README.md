@@ -10,7 +10,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/sanjog-shrestha/SecureHomeNet-A-Virtualized-Network-Security-Lab">SecureHomeNet: A Virutalized Network Security Lab</a>
 - SOC Automation Project
   
 ## Tools
