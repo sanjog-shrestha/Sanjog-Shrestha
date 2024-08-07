@@ -27,7 +27,7 @@ Networking & Penetration Testing
 Network Monitoring & Analysis
 <div> <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-VMware-231F20?style=for-the-badge&logo=VMware&logoColor=white" /> </div>
 SIEM & Log Management
-<div> <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white" /> </div>
+<div> <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" /> </div>
 Programming & Automation
 <div> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=Golang&logoColor=white" /> </div>
 
