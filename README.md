@@ -30,7 +30,8 @@ SIEM and Log Management
 Virtualization
 <div> <img src="https://img.shields.io/badge/-VMware-231F20?&style=for-the-badge&logo=VMware&logoColor=white" />  </div>
 Reverse Engineering Tools
-<div> <img src="https://img.shields.io/badge/-Hex_Rays-000000?&style=for-the-badge&logo=Hex-Rays&logoColor=white" /> <img src="https://img.shields.io/badge/-IDA_Pro-0678BE?&style=for-the-badge&logo=IDA%20Pro&logoColor=white" /> <img src="https://img.shields.io/badge/-Pestudio-000000?&style=for-the-badge&logo=Pestudio&logoColor=white" /> <img src="https://img.shields.io/badge/-Exeinfo-000000?&style=for-the-badge&logo=Exeinfo&logoColor=white" /> </div>
+<div>  <img src="https://img.shields.io/badge/-PEStudio-000000?&style=for-the-badge&logo=PEStudio&logoColor=white" /> <img src="https://img.shields.io/badge/-Exeinfo-000000?&style=for-the-badge&logo=Exeinfo&logoColor=white">
+<img src="https://img.shields.io/badge/-HxD-000000?&style=for-the-badge&logo=HxD&logoColor=white" /> </div>
 
 ## Certifications
 <div>
