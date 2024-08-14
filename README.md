@@ -29,6 +29,9 @@ SIEM and Log Management
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> </div>
 Virtualization
 <div> <img src="https://img.shields.io/badge/-VMware-231F20?&style=for-the-badge&logo=VMware&logoColor=white" />  </div>
+Reverse Engineering Tools
+<div> <img src="https://img.shields.io/badge/-Hex_Rays-000000?&style=for-the-badge&logo=Hex-Rays&logoColor=white" /> <img src="https://img.shields.io/badge/-IDA_Pro-0678BE?&style=for-the-badge&logo=IDA%20Pro&logoColor=white" /> <img src="https://img.shields.io/badge/-Pestudio-000000?&style=for-the-badge&logo=Pestudio&logoColor=white" /> <img src="https://img.shields.io/badge/-Exeinfo-000000?&style=for-the-badge&logo=Exeinfo&logoColor=white" /> </div>
+
 ## Certifications
 <div>
 <a href="https://www.credly.com/badges/4dae6952-3ebb-453b-adfd-898de98066f4/linked_in_profile"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
