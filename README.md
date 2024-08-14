@@ -13,7 +13,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/sanjog-shrestha/SecureHomeNet-A-Virtualized-Network-Security-Lab">SecureHomeNet: A Virutalized Network Security Lab</a>
 - <a href="https://github.com/sanjog-shrestha/Cloud-Security-Audit-Using-Qualys">Cloud Security Audit Using Qualys</a>
 - <a href="https://github.com/sanjog-shrestha/Secure-Active-Directory-Deployment-and-Monitoring">Secure Active Directory Deployment and Monitoring</a>
-  
+- <a href="https://github.com/sanjog-shrestha/Secure-Active-Directory-Deployment-and-Monitoring">Static Malware Analysis</a>
+
 ## Tools
 
 Network Tools
