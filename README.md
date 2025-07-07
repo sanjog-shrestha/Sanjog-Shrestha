@@ -34,6 +34,8 @@ Virtualization
 Reverse Engineering Tools
 <div>  <img src="https://img.shields.io/badge/-PEStudio-000000?&style=for-the-badge&logo=PEStudio&logoColor=white" /> <img src="https://img.shields.io/badge/-Exeinfo-000000?&style=for-the-badge&logo=Exeinfo&logoColor=white">
 <img src="https://img.shields.io/badge/-HxD-000000?&style=for-the-badge&logo=HxD&logoColor=white" /> </div>
+Containerization & Environment Management
+<div> <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" /> </div>
 
 ## Certifications
 <div>
