@@ -15,6 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/sanjog-shrestha/Secure-Active-Directory-Deployment-and-Monitoring">Secure Active Directory Deployment and Monitoring</a>
 - <a href="https://github.com/sanjog-shrestha/Malware-Analysis/tree/Static-malware-analysis">Static Malware Analysis</a>
 - <a href="https://github.com/sanjog-shrestha/microservices-architecture">Microservices Architecture</a>
+- <a href="https://github.com/sanjog-shrestha/NMAP-Network-Scanning-Project">NMAP Scanning Project</a>
 
 
 ## Tools
