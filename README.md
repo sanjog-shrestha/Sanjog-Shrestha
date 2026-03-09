@@ -35,6 +35,7 @@ I am seeking opportunities as a **Security Engineer**, **Security Analyst**, or 
 | <a href="https://github.com/sanjog-shrestha/Two-Tier-AWS-Architecture-using-Terraform">Two-Tier AWS Architecture</a> | Provisioned a VPC, EC2 web server, RDS MySQL database, and ALB using Terraform |
 | <a href="https://github.com/sanjog-shrestha/Flask-App-Deployment-with-Terraform">Flask App Deployment on EC2</a> | Automated Flask application deployment on Ubuntu EC2 with systemd using Terraform |
 | <a href="https://github.com/sanjog-shrestha/Static-Website-Hosting-on-AWS">Static Website Hosting on S3</a> | Deployed a static website on Amazon S3 with public access policy using Terraform |
+| <a href="https://github.com/sanjog-shrestha/Production-Three-Tier-AWS-Architecture-with-Terraform-ECS-Fargate-Aurora-Redis-WAF-">Production Three-Tier AWS Architecture with Terraform (ECS Fargate + Aurora + Redis + WAF)</a> | Production-grade three-tier AWS architecture deployed with Terraform, featuring ECS Fargate containers, AWS WAF-protected ALB, Aurora Serverless database, Redis caching, and auto scaling across isolated VPC tiers. |
 
 ---
 
