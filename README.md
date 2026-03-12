@@ -29,6 +29,8 @@ I am seeking opportunities as a **Security Engineer**, **Security Analyst**, or 
 ## 🔐 Docker Projects
 Projects: <a href="https://github.com/sanjog-shrestha/Docker">Click here to access to the projects.</a> 
 
+---
+
 ## ☁️ Cloud & Infrastructure Projects (Terraform)
 
 | Project | Description |
