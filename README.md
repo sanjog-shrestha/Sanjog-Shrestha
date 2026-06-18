@@ -13,6 +13,14 @@ I am a post-graduate professional with a strong foundation in computer science a
 I am seeking opportunities as a **Security Engineer**, **Security Analyst**, or **Cloud Security Engineer** where I can apply my technical skills to protect and scale modern infrastructure.
 
 ---
+## 👤 Personal Projects
+
+| Project | Description |
+|---|---|
+| <a href="https://github.com/sanjog-shrestha/Sports-Hub"> ⚽ Sports Hub</a> | A sports dashboard and sandbox for learning open-source tooling. |
+
+
+---
 
 ## 🔐 Cybersecurity Projects
 
