@@ -19,6 +19,7 @@ I am seeking opportunities as a **Security Engineer**, **Security Analyst**, or 
 |---|---|
 | <a href="https://github.com/sanjog-shrestha/Sports-Hub"> ⚽ Sports Hub </a> | A sports dashboard and sandbox for learning open-source tooling. |
 | <a href="https://github.com/sanjog-shrestha/anime"> 🎴 Anime Corner </a> | A tiny, Dockerized anime-themed web app built step by step |
+| <a href="https://github.com/sanjog-shrestha/NetWatch"> 🚀 NetWatch </a> | Containerized network latency & packet loss monitoring with real-time alerts, AI anomaly detection, and blockchain audit trails. |
 
 
 ---
