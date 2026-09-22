@@ -40,6 +40,14 @@ Projects: <a href="https://github.com/sanjog-shrestha/Docker">Click here to acce
 
 ---
 
+## 🤖 Machine Learning Projects
+
+| Project | Description |
+|---|---|
+| <a href="https://github.com/sanjog-shrestha/Social-Media-and-Sentiment-Analysis"> 💬 Social Media & Sentiment Analysis </a> | NLP sentiment analysis on Facebook and Twitter text using NLTK, TF-IDF, and classic ML classifiers. |
+| <a href="https://github.com/sanjog-shrestha/Simple-ML-Projects"> 🧠 Simple ML Projects </a> | A growing collection of hands-on ML/CV projects — image colorization, CIFAR-10 classification, spam detection, digit recognition, OCR, face/object counting, and more. |
+---
+
 ## ☁️ Cloud & Infrastructure Projects (Terraform)
 
 | Project | Description |
