@@ -128,10 +128,8 @@ Projects: <a href="https://github.com/sanjog-shrestha/Docker">Click here to acce
   <a href="https://www.credly.com/badges/4dae6952-3ebb-453b-adfd-898de98066f4/linked_in_profile">
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   </a>
-</div>
-
-<div>
   <a href="https://www.credly.com/badges/YOUR-CC-BADGE-ID/linked_in_profile">
-    <img src="https://img.shields.io/badge/-ISC2%20CC-6CBE45?&style=for-the-badge&logoColor=white" />
+    <img src="https://www.credly.com/badges/bed8711c-95ab-4dec-a20d-29e341b7bd06&style=for-the-badge&logoColor=white" />
   </a>
 </div>
+
