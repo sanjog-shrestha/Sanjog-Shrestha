@@ -129,3 +129,9 @@ Projects: <a href="https://github.com/sanjog-shrestha/Docker">Click here to acce
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   </a>
 </div>
+
+<div>
+  <a href="https://www.credly.com/badges/YOUR-CC-BADGE-ID/linked_in_profile">
+    <img src="https://img.shields.io/badge/-ISC2%20CC-6CBE45?&style=for-the-badge&logoColor=white" />
+  </a>
+</div>
